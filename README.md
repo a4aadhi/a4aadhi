@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @a4aadhi
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning MERN stack webdevelopment
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Adarsh M
+- 👀 I’m interested in Game and Webdevelopment
+- 🌱 I’m currently learning Unity3d engine
+- 💞️ I’m looking for internship which help begninners to improve themselves
 - 📫 reach me on LinkedIn:https://www.linkedin.com/in/adarsh-m-69140a1b5
 
 <!---
