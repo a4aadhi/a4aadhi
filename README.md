@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Adarsh M
-- 👀 I’m interested in Game and Webdevelopment
-- 🌱 I’m currently learning Unity3d engine
-- 💞️ I’m looking for internship which help begninners to improve themselves
-- 📫 reach me on LinkedIn:https://www.linkedin.com/in/adarsh-m-69140a1b5
+- 👋 Hi, I’m Adarsh M Nair
+- 👀 I’m interested in Web and Game development
+- 🌱 I’m currently learning MERN Stack and Unity Game Engine
+- 💞️ I’m looking for Frontend Web Developer and Game Developer Roles
+- 📫 reach me on LinkedIn:https://www.linkedin.com/in/a4adarsh
 
-<!---
-a4aadhi/a4aadhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
